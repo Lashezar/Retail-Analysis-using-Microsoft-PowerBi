@@ -1,6 +1,10 @@
 # Retail-Analysis-using-Microsoft-PowerBi
 
 ---
+
+
+![Sales Dashboard](https://drive.google.com/uc?id=1sgFAzSP0S-ABIjuXrAVrevR7Eq1kW0Cx)
+
 Here’s a detailed analysis of your sales dashboard:
 
 ---
